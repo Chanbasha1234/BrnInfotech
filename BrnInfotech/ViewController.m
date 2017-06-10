@@ -19,7 +19,7 @@
     
     
     NSLog(@"Hello BrnInfotech!");
-    
+    NSLog(@"chan");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
